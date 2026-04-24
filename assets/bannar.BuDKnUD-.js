@@ -1,0 +1,1 @@
+import{o as a,c as n,w as s,g as e,i as r}from"./index-DrnYXYtm.js";import{_ as t}from"./uni-line.DX3tqw--.js";const o=t({name:"uni-bannar",data:()=>({})},[["render",function(t,o,i,c,d,m){const f=r;return a(),n(f,{class:"container"},{default:s((()=>[e("img",{src:"/water-web/assets/banner-DRLvnh2G.jpg",alt:""})])),_:1})}],["__scopeId","data-v-63f99388"]]);export{o as B};
